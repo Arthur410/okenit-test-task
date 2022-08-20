@@ -20,5 +20,5 @@ npm run build
 npm run lint
 ```
 
-#Demonstration:
+### Demonstration:
 ![all text](https://github.com/Arthur410/okenit-test-task/blob/master/okenit-preview.gif)
